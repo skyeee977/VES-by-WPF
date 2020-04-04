@@ -1,0 +1,64 @@
+﻿<Window x:Class="ZeroMumber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800" WindowState="Maximized">
+    <DockPanel Name="dockPanel1">
+        <TabControl Name="menuTabctrl" DockPanel.Dock="Left"  Width="200" Height="1200" VerticalAlignment="Top" >
+            <TabItem Header="建立桁架" Height="30" FontSize="18" Width="95" Margin="0,0,2,0" VerticalAlignment="Top" >
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="153*"/>
+                        <ColumnDefinition Width="37*"/>
+                    </Grid.ColumnDefinitions>
+                    <Rectangle Name="ZhizuoX_Rect" HorizontalAlignment="Left" Height="40" Margin="35,326,0,0" VerticalAlignment="Top" Width="40"  Tag="2" MouseLeftButtonDown="Rect_X" RenderTransformOrigin="-0.75,6.175">
+                        <Rectangle.Fill>
+                            <ImageBrush ImageSource="Image/ZhizuoX.png"/>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                    <Rectangle Name="ZhizuoY_Rect" HorizontalAlignment="Left" Height="40" Margin="115,326,0,0" VerticalAlignment="Top" Width="40"  Tag="2" MouseLeftButtonDown="Rect_Y" RenderTransformOrigin="-0.75,6.175" Grid.ColumnSpan="2">
+                        <Rectangle.Fill>
+                            <ImageBrush ImageSource="Image/ZhizuoY.png"/>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                    <Button Content="完成绘制" HorizontalAlignment="Left" Margin="35,146,0,0" VerticalAlignment="Top" Width="120" Click="SavePaint_Click" Height="54" Grid.ColumnSpan="2"/>
+                    <Button Content="绘制杆件 " HorizontalAlignment="Left" Margin="35,46,0,0" VerticalAlignment="Top" Width="120" Click="Paint_ok_Click" Height="54" Grid.ColumnSpan="2"/>
+                    <Button Content="添加支座" HorizontalAlignment="Left" Margin="35,246,0,0" VerticalAlignment="Top" Width="120" Click="Zhizuo_ok_Click" Height="54" Grid.ColumnSpan="2"/>
+                    <Button Content="支座添加完成" HorizontalAlignment="Left" Margin="35,406,0,0" VerticalAlignment="Top" Width="120" Click="SaveZhizuo_Click" Height="54" Grid.ColumnSpan="2"/>
+                    <Button Content="保存桁架" HorizontalAlignment="Left" Margin="35,506,0,0" VerticalAlignment="Top" Width="120" Click="Export" Height="54" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="练习" FontSize="18" HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="95" Margin="0">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="27*"/>
+                        <ColumnDefinition Width="68*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Grid.ColumnSpan="2" Content="添加载荷" HorizontalAlignment="Left" Height="54" Margin="34,146,0,0" VerticalAlignment="Top" Width="120" Click="LoadLoad"/>
+                    <Button Grid.ColumnSpan="2" Content="判断零杆" HorizontalAlignment="Left" Height="54" Margin="34,346,0,0" VerticalAlignment="Top" Width="120" Click="Start"/>
+                    <Button Grid.ColumnSpan="2" Content="读取桁架" HorizontalAlignment="Left" Height="54" Margin="34,46,0,0" VerticalAlignment="Top" Width="120" Click="Import"/>
+                    <Button Grid.ColumnSpan="2" Content="判断完毕" HorizontalAlignment="Left" Height="54" Margin="34,446,0,0" VerticalAlignment="Top" Width="120" Click="Over"/>
+                    <Button Grid.ColumnSpan="2" Content="载荷添加完成" HorizontalAlignment="Left" Height="54" Margin="34,246,0,0" VerticalAlignment="Top" Width="120" Click="SaveLoad"/>
+                    <Button Grid.ColumnSpan="2" Content="清除载荷" HorizontalAlignment="Left" Height="54" Margin="34,546,0,0" VerticalAlignment="Top" Width="120" Click="Erase"/>
+
+                </Grid>
+
+            </TabItem>
+        </TabControl>
+        <TextBlock x:Name="textBlock1" FontSize="20" TextAlignment="Center" DockPanel.Dock="Top" 
+                   Text="结构力学零杆判断系统"  TextWrapping="Wrap" Height="34" />
+
+        <Canvas Name="can" DockPanel.Dock="Top"  Background="#FFFBEFE3" Focusable="True"
+                PreviewMouseLeftButtonDown="can_PreviewMouseLeftButtonDown" PreviewMouseMove="move"  PreviewMouseLeftButtonUp="can_PreviewMouseLeftButtonUp" 
+                RenderTransformOrigin="0.5,0.5" Loaded="grid_Loaded" AllowDrop="True"  Margin="-7,0,0,0" >
+            <Canvas.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Canvas.RenderTransform>
+        </Canvas>
+
+    </DockPanel>
+</Window>

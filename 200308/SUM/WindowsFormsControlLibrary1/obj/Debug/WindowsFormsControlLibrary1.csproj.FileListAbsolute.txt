@@ -1,0 +1,39 @@
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\WpfApplication3.exe
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\ZeroMumber.exe
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\MathNet.Numerics.dll
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\InfluenceLine ver1.0.pdb
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\InfluenceLine ver1.0.exe.config
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\WpfApplication3.pdb
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\WpfApplication3.exe.config
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\ZeroMumber.pdb
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\ZeroMumber.exe.config
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\bin\Debug\MathNet.Numerics.xml
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CopyComplete
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\asus\Desktop\upload\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\InfluenceLine ver1.0.exe
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\WpfApplication3.exe
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\ZeroMumber.exe
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\MathNet.Numerics.dll
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\InfluenceLine ver1.0.pdb
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\InfluenceLine ver1.0.exe.config
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\WpfApplication3.pdb
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\WpfApplication3.exe.config
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\ZeroMumber.pdb
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\bin\Debug\ZeroMumber.exe.config
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CopyComplete
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+F:\力学软件\190624网页版\SUM\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
