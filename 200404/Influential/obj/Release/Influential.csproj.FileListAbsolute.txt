@@ -1,0 +1,32 @@
+C:\Users\asus\Desktop\upload\SUM\Influential\bin\Release\InfluenceLine ver1.0.exe.config
+C:\Users\asus\Desktop\upload\SUM\Influential\bin\Release\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\upload\SUM\Influential\bin\Release\InfluenceLine ver1.0.pdb
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\Window1.baml
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\Window4.baml
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\Window1.g.cs
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\Window4.g.cs
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\App.g.cs
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\InfluenceLine ver1.0_MarkupCompile.cache
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\InfluenceLine ver1.0.g.resources
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\InfluenceLine.Properties.Resources.resources
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\Influential.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\Influential.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\InfluenceLine ver1.0.pdb
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Release\Influential.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\SUM\Influential\bin\Release\InfluenceLine ver1.0.exe.config
+C:\Users\asus\Desktop\SUM\Influential\bin\Release\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\SUM\Influential\bin\Release\InfluenceLine ver1.0.pdb
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\Influential.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\Window1.baml
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\Window4.baml
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\Window1.g.cs
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\Window4.g.cs
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\App.g.cs
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\InfluenceLine ver1.0_MarkupCompile.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\InfluenceLine ver1.0.g.resources
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\InfluenceLine.Properties.Resources.resources
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\Influential.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\Influential.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\SUM\Influential\obj\Release\InfluenceLine ver1.0.pdb

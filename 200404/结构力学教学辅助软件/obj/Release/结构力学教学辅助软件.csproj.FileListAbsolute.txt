@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\SUM\结构力学教学辅助软件\obj\Release\结构力学教学辅助软件.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\SUM\结构力学教学辅助软件\obj\Release\MainWindow.g.cs
+C:\Users\asus\Desktop\SUM\结构力学教学辅助软件\obj\Release\App.g.cs
+C:\Users\asus\Desktop\SUM\结构力学教学辅助软件\obj\Release\结构力学教学辅助软件_MarkupCompile.cache
+C:\Users\asus\Desktop\SUM\结构力学教学辅助软件\obj\Release\结构力学教学辅助软件_MarkupCompile.lref

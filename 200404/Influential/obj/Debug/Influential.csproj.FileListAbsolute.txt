@@ -1,0 +1,64 @@
+C:\Users\asus\Desktop\upload\SUM\Influential\bin\Debug\InfluenceLine ver1.0.exe.config
+C:\Users\asus\Desktop\upload\SUM\Influential\bin\Debug\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\upload\SUM\Influential\bin\Debug\InfluenceLine ver1.0.pdb
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\Influential.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\Window1.baml
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\Window4.baml
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\Window1.g.cs
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\Window4.g.cs
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\App.g.cs
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\InfluenceLine ver1.0_MarkupCompile.cache
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\InfluenceLine ver1.0.g.resources
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\InfluenceLine.Properties.Resources.resources
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\Influential.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\Influential.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\upload\SUM\Influential\obj\Debug\InfluenceLine ver1.0.pdb
+C:\Users\asus\Desktop\SUM\Influential\bin\Debug\InfluenceLine ver1.0.exe.config
+C:\Users\asus\Desktop\SUM\Influential\bin\Debug\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\SUM\Influential\bin\Debug\InfluenceLine ver1.0.pdb
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\Influential.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\Window1.baml
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\Window4.baml
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\Window1.g.cs
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\Window4.g.cs
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\App.g.cs
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\InfluenceLine ver1.0_MarkupCompile.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\InfluenceLine ver1.0.g.resources
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\InfluenceLine.Properties.Resources.resources
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\Influential.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\Influential.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\InfluenceLine ver1.0.exe
+C:\Users\asus\Desktop\SUM\Influential\obj\Debug\InfluenceLine ver1.0.pdb
+F:\力学软件\20\桌面版\Influential\bin\Debug\InfluenceLine ver1.0.exe.config
+F:\力学软件\20\桌面版\Influential\bin\Debug\InfluenceLine ver1.0.exe
+F:\力学软件\20\桌面版\Influential\bin\Debug\InfluenceLine ver1.0.pdb
+F:\力学软件\20\桌面版\Influential\obj\Debug\Influential.csprojAssemblyReference.cache
+F:\力学软件\20\桌面版\Influential\obj\Debug\Window1.baml
+F:\力学软件\20\桌面版\Influential\obj\Debug\Window4.baml
+F:\力学软件\20\桌面版\Influential\obj\Debug\Window1.g.cs
+F:\力学软件\20\桌面版\Influential\obj\Debug\Window4.g.cs
+F:\力学软件\20\桌面版\Influential\obj\Debug\App.g.cs
+F:\力学软件\20\桌面版\Influential\obj\Debug\InfluenceLine ver1.0_MarkupCompile.cache
+F:\力学软件\20\桌面版\Influential\obj\Debug\InfluenceLine ver1.0.g.resources
+F:\力学软件\20\桌面版\Influential\obj\Debug\InfluenceLine.Properties.Resources.resources
+F:\力学软件\20\桌面版\Influential\obj\Debug\Influential.csproj.GenerateResource.cache
+F:\力学软件\20\桌面版\Influential\obj\Debug\Influential.csproj.CoreCompileInputs.cache
+F:\力学软件\20\桌面版\Influential\obj\Debug\InfluenceLine ver1.0.exe
+F:\力学软件\20\桌面版\Influential\obj\Debug\InfluenceLine ver1.0.pdb
+F:\力学软件\200308桌面版\桌面版\Influential\bin\Debug\InfluenceLine ver1.0.exe.config
+F:\力学软件\200308桌面版\桌面版\Influential\bin\Debug\InfluenceLine ver1.0.exe
+F:\力学软件\200308桌面版\桌面版\Influential\bin\Debug\InfluenceLine ver1.0.pdb
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\Influential.csprojAssemblyReference.cache
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\Window1.baml
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\Window4.baml
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\Window1.g.cs
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\Window4.g.cs
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\App.g.cs
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\InfluenceLine ver1.0_MarkupCompile.cache
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\InfluenceLine ver1.0.g.resources
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\InfluenceLine.Properties.Resources.resources
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\Influential.csproj.GenerateResource.cache
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\Influential.csproj.CoreCompileInputs.cache
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\InfluenceLine ver1.0.exe
+F:\力学软件\200308桌面版\桌面版\Influential\obj\Debug\InfluenceLine ver1.0.pdb
